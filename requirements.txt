@@ -1,0 +1,8 @@
+streamlit>=1.45
+pdfplumber
+pandas
+requests
+matplotlib
+reportlab
+gTTS
+pytest
